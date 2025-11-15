@@ -1,0 +1,11 @@
+OrderID,Product,Category,Region,Sales,Quantity,Month
+101,Laptop,Electronics,North,80000,2,January
+102,Mouse,Accessories,South,1500,5,January
+103,Keyboard,Accessories,West,2500,3,February
+104,Mobile,Electronics,East,30000,1,February
+105,Laptop,Electronics,South,75000,1,March
+106,Mouse,Accessories,North,1200,4,March
+107,Headset,Accessories,North,2200,2,April
+108,Mobile,Electronics,South,32000,1,April
+109,Laptop,Electronics,West,65000,1,May
+110,Mouse,Accessories,East,1800,6,May
